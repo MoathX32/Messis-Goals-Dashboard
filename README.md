@@ -1,2 +1,2 @@
-# Messi-Goals-Dashboard
+# Messi Goals Dashboard
 Data analysis dashboards
